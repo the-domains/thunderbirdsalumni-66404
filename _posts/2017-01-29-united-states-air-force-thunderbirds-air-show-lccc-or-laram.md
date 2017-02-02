@@ -26,8 +26,8 @@ isBasedOnUrl: 'http://lccc.wy.edu/airshow/'
 title: >-
   United States Air Force Thunderbirds Air Show - LCCC | Laramie County
   Community College, Wyoming
-datePublished: '2017-02-02T05:59:40.686Z'
-dateModified: '2017-02-02T05:59:39.292Z'
+datePublished: '2017-02-02T16:17:48.862Z'
+dateModified: '2017-02-02T16:17:46.721Z'
 via: {}
 inFeed: true
 sourcePath: >-
