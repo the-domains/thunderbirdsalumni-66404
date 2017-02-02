@@ -31,8 +31,8 @@ app_links: []
 isBasedOnUrl: >-
   http://wwlp.com/2017/01/24/u-s-air-force-thunderbirds-jet-conducting-site-survey-at-barnes-tuesday/
 title: U.S. Air Force Thunderbirds' jet visits Barnes for airshow site survey
-datePublished: '2017-02-02T05:59:41.138Z'
-dateModified: '2017-02-02T05:59:39.292Z'
+datePublished: '2017-02-02T16:17:49.845Z'
+dateModified: '2017-02-02T16:17:46.721Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-28-us-air-force-thunderbirds-jet-visits-barnes-for-airshow-s.md
