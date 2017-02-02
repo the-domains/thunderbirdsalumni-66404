@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.airuniversity.af.mil/News/Display/Article/1062741/thunderbirds-conduct-a-site-survey-for-upcoming-air-show/
 title: Thunderbirds conduct a site survey for upcoming Air Show
-datePublished: '2017-01-31T01:09:03.486Z'
-dateModified: '2017-01-31T01:09:01.884Z'
+datePublished: '2017-02-02T05:59:41.157Z'
+dateModified: '2017-02-02T05:59:39.292Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-27-thunderbirds-conduct-a-site-survey-for-upcoming-air-show.md
