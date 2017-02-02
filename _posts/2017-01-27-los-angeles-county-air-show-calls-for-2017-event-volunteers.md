@@ -30,8 +30,8 @@ app_links: []
 isBasedOnUrl: >-
   http://tricountysentry.com/blog/los-angeles-county-air-show-calls-for-2017-event-volunteers/
 title: Los Angeles County Air Show calls for 2017 event volunteers
-datePublished: '2017-02-02T05:59:41.350Z'
-dateModified: '2017-02-02T05:59:39.292Z'
+datePublished: '2017-02-02T16:17:50.125Z'
+dateModified: '2017-02-02T16:17:46.721Z'
 via: {}
 inFeed: true
 sourcePath: >-
