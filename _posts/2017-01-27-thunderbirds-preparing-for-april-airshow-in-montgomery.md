@@ -30,8 +30,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.wsfa.com/story/34348696/thunderbirds-preparing-for-april-airshow-in-montgomery
 title: Thunderbirds preparing for April airshow in Montgomery
-datePublished: '2017-01-31T01:09:04.842Z'
-dateModified: '2017-01-31T01:09:01.884Z'
+datePublished: '2017-02-02T05:59:41.858Z'
+dateModified: '2017-02-02T05:59:39.292Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-27-thunderbirds-preparing-for-april-airshow-in-montgomery.md
