@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.aircosmosinternational.com/usaf-bids-farewell-to-f-4-phantom-88183'
 title: USAF bids farewell to F-4 Phantom - Air & Cosmos - International
-datePublished: '2017-02-02T16:17:50.095Z'
-dateModified: '2017-02-02T16:17:46.721Z'
+datePublished: '2017-02-03T04:39:52.260Z'
+dateModified: '2017-02-03T04:39:50.142Z'
 via: {}
 inFeed: true
 sourcePath: >-
