@@ -27,13 +27,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.bnd.com/news/local/community/scott-afb/article130304849.html'
 title: Aerial performers announced for June 10-11 airshow
-datePublished: '2017-02-03T04:38:54.523Z'
-dateModified: '2017-02-03T04:38:22.832Z'
-datePublishedOriginal: '2017-02-03T04:38:54.523Z'
+datePublished: '2017-02-03T04:39:52.414Z'
+dateModified: '2017-02-03T04:39:50.142Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-03-aerial-performers-announced-for-june-10-11-airshow.md
+starred: false
+datePublishedOriginal: '2017-02-03T04:38:54.523Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
