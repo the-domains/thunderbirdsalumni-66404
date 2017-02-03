@@ -30,8 +30,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.stltoday.com/news/local/illinois/scott-air-force-base-kicks-off-centennial-celebration/article_2f0a0c17-9f7b-59ed-8c09-3e94fd1729c3.html
 title: Scott Air Force Base kicks off centennial celebration
-datePublished: '2017-02-02T16:17:50.290Z'
-dateModified: '2017-02-02T16:17:46.721Z'
+datePublished: '2017-02-03T04:39:52.607Z'
+dateModified: '2017-02-03T04:39:50.142Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-23-scott-air-force-base-kicks-off-centennial-celebration.md
