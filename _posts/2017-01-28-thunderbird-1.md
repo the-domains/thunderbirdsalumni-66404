@@ -4,8 +4,8 @@ description: >-
   Lt. Col. Jason Heard goes by many names. His peers call him Shifty, we call
   him Boss, but for the next two years he'll be known to the world as
   Thunderbird 1. For more information about the U.S.
-dateModified: '2017-02-02T16:17:46.721Z'
-datePublished: '2017-02-02T16:17:49.070Z'
+dateModified: '2017-02-03T04:39:50.142Z'
+datePublished: '2017-02-03T04:39:51.815Z'
 title: Thunderbird 1
 author:
   - name: afthunderbirds
