@@ -5,8 +5,8 @@ description: >-
   over @FortLauderdaleBeach! We're looking forward to having the Delta formation
   back together this weekend! #360 #afthunderbirds #bestview
   #YouCanSeeEverything
-dateModified: '2017-02-04T02:42:28.066Z'
-datePublished: '2017-02-04T02:42:37.954Z'
+dateModified: '2017-02-04T02:43:50.008Z'
+datePublished: '2017-02-04T02:43:52.484Z'
 title: Thunderbirds_360
 author:
   - name: afthunderbirds
