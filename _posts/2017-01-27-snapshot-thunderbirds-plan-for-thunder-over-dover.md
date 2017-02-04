@@ -20,8 +20,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.dover.af.mil/News/Article-Display/Article/1061307/snapshot-thunderbirds-plan-for-thunder-over-dover
 title: 'Snapshot: Thunderbirds plan for "Thunder Over Dover"'
-datePublished: '2017-02-04T02:42:44.474Z'
-dateModified: '2017-02-04T02:42:28.066Z'
+datePublished: '2017-02-04T02:43:53.888Z'
+dateModified: '2017-02-04T02:43:50.008Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-27-snapshot-thunderbirds-plan-for-thunder-over-dover.md
