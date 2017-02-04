@@ -31,13 +31,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.kwch.com/content/news/McConnell-AFB-providing-support-for-Thunderbirds-at-Super-Bowl-51-412557903.html
 title: McConnell A.F.B. providing support for Thunderbirds at Super Bowl 51
-datePublished: '2017-02-04T02:43:17.841Z'
-dateModified: '2017-02-04T02:42:15.884Z'
-datePublishedOriginal: '2017-02-04T02:43:17.841Z'
+datePublished: '2017-02-04T02:43:51.629Z'
+dateModified: '2017-02-04T02:43:50.008Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-04-mcconnell-afb-providing-support-for-thunderbirds-at-super.md
+starred: false
+datePublishedOriginal: '2017-02-04T02:43:17.841Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
