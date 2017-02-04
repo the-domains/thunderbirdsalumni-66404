@@ -27,8 +27,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.tactical.center/impressive-f-16-air-show-by-us-air-force-thunderbirds_2d44635a8.html
 title: Impressive F-16 Air-Show By US Air Force Thunderbirds
-datePublished: '2017-02-04T02:42:36.521Z'
-dateModified: '2017-02-04T02:42:28.066Z'
+datePublished: '2017-02-04T02:43:51.953Z'
+dateModified: '2017-02-04T02:43:50.008Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-02-impressive-f-16-air-show-by-us-air-force-thunderbirds.md
