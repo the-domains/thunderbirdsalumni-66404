@@ -5,8 +5,8 @@ description: >-
   information about the U.S. Air Force Thunderbirds, visit:
   www.afthunderbirds.com Follow us on Facebook:
   https://www.facebook.com/AFThunderbirds/ Instagram/ Twitter: @afthunderbirds
-dateModified: '2017-02-04T02:42:28.066Z'
-datePublished: '2017-02-04T02:42:41.628Z'
+dateModified: '2017-02-04T02:43:50.008Z'
+datePublished: '2017-02-04T02:43:53.892Z'
 title: 'Time-Lapse: Putting Thunderbird Jets to Bed'
 author:
   - name: afthunderbirds
