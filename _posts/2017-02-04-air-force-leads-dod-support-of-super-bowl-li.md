@@ -26,13 +26,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.defense.gov/News/Article/Article/1070164/air-force-leads-dod-support-of-super-bowl-li
 title: Air Force Leads DoD Support of Super Bowl LI
-datePublished: '2017-02-04T02:41:05.370Z'
-dateModified: '2017-02-04T02:41:04.185Z'
-datePublishedOriginal: '2017-02-04T02:41:05.370Z'
+datePublished: '2017-02-04T02:42:36.462Z'
+dateModified: '2017-02-04T02:42:28.066Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-04-air-force-leads-dod-support-of-super-bowl-li.md
+starred: false
+datePublishedOriginal: '2017-02-04T02:41:05.370Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
