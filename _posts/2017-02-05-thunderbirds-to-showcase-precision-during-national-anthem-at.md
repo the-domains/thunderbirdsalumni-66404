@@ -26,14 +26,14 @@ app_links: []
 isBasedOnUrl: >-
   http://www.chron.com/houston/article/Thunderbirds-to-showcase-precision-during-10908661.php
 title: Thunderbirds to showcase precision during national anthem at Super Bowl LI
-datePublished: '2017-02-05T05:44:49.981Z'
-dateModified: '2017-02-05T05:44:27.423Z'
-datePublishedOriginal: '2017-02-05T05:44:49.981Z'
+datePublished: '2017-02-05T05:45:10.085Z'
+dateModified: '2017-02-05T05:45:08.311Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-02-05-thunderbirds-to-showcase-precision-during-national-anthem-at.md
+starred: false
+datePublishedOriginal: '2017-02-05T05:44:49.981Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
