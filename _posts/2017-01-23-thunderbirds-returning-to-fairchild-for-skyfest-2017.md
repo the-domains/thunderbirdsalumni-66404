@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.spokesman.com/stories/2017/jan/10/thunderbirds-squadron-returning-to-fairchild-in-ju/
 title: Thunderbirds returning to Fairchild for Skyfest 2017
-datePublished: '2017-02-04T02:43:54.383Z'
-dateModified: '2017-02-04T02:43:50.008Z'
+datePublished: '2017-02-05T05:45:12.550Z'
+dateModified: '2017-02-05T05:45:08.311Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-23-thunderbirds-returning-to-fairchild-for-skyfest-2017.md
