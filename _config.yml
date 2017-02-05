@@ -35,7 +35,35 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7efddf-0ec0-4b0b-8ed3-c5888f23ff21.png
 title: ThunderbirdsAlumni.com
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: quote
+    html: <blockquote>U.S. Air Force Thunderbirds is live now.</blockquote>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: U.S. Air Force Thunderbirds
+          url: 'http://facebook.com/267550469245'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'http://www.facebook.com'
+        name: Facebook
+        favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
+        domain: www.facebook.com
+      keywords: []
+      description: U.S. Air Force Thunderbirds is live now.
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      title: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        https://www.facebook.com/AFThunderbirds/videos/vb.267550469245/10155016491639246/?type=2&theater&notif_t=live_video&notif_id=1486333526003383
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: U.S. Air Force Thunderbirds is live now.
 description: Dream Of A Lifetime
 purpose:
   - type: contact
