@@ -1,4 +1,3 @@
-layout_spectrum: 0.006087371772892847
 typography_spectrum: 0.28022864728326924
 color:
   brandColors:
@@ -11,6 +10,9 @@ color:
   lightness: 0.5745095570708191
   saturation: 0.0018552456184815947
   rhythmicContrast: 0.5253751108969682
+layout_spectrum: 0.006087371772892847
+analytics:
+  google: UA-91455698-1
 author:
   name: Larry Burlingame
   email: larrykathy@hotmail.com
@@ -18,6 +20,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/233e9f93-825f-49dd-9c1a-d840676b1dde.png
 name: ThunderbirdsAlumni
+url: 'https://thunderbirdsalumni.com/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -32,6 +35,9 @@ navigation:
   - name: Photo Gallery Links
     id: 4442ced1-8977-4b4c-87af-fc133d5edef7
     type: content
+  - name: YouTube Channel
+    url: 'https://www.youtube.com/channel/UC7_edytVWM8iumngqzTVLVw'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7efddf-0ec0-4b0b-8ed3-c5888f23ff21.png
 title: ThunderbirdsAlumni.com
@@ -45,16 +51,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: afthunderbirds
-          url: 'https://www.youtube.com/user/afthunderbirds'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=3DjzwIr4k9Q&t=22s'
       keywords:
         - thunderbirds
         - afthunderbirds
@@ -66,12 +64,13 @@ content:
         - flies
         - solo
         - airshow
-      description: >-
-        For more information about the Thunderbirds, visit:
-        www.afthunderbirds.com Follow the Thunderbirds on Facebook:
-        https://www.facebook.com/AFThunderbirds Follow the Thunderbirds on
-        Instagram/ Twitter - @afthunderbirds
-      inLanguage: en
+      related: []
+      author:
+        - name: afthunderbirds
+          url: 'https://www.youtube.com/user/afthunderbirds'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: 'Thunderbirds 2016, Year in Review'
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=3DjzwIr4k9Q&feature=applinks'
@@ -110,10 +109,17 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=3DjzwIr4k9Q&t=22s'
-      title: 'Thunderbirds 2016, Year in Review'
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: >-
+        For more information about the Thunderbirds, visit:
+        www.afthunderbirds.com Follow the Thunderbirds on Facebook:
+        https://www.facebook.com/AFThunderbirds Follow the Thunderbirds on
+        Instagram/ Twitter - @afthunderbirds
+      inLanguage: en
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -126,4 +132,3 @@ purpose:
     url: 'http://www.afthunderbirds.com/site/'
     label: USAF Thunderbirds Site
 github: true
-url: 'https://thunderbirdsalumni.com/'
