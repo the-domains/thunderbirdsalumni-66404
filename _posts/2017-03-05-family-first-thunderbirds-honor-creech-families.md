@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.creech.af.mil/News/ArticleDisplay/tabid/7026/Article/1101996/family-first-thunderbirds-honor-creech-families.aspx
 title: 'Family first: Thunderbirds honor Creech families'
-datePublished: '2017-04-11T03:10:38.439Z'
-dateModified: '2017-04-11T03:10:37.363Z'
+datePublished: '2017-04-11T03:12:11.265Z'
+dateModified: '2017-04-11T03:12:10.152Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-05-family-first-thunderbirds-honor-creech-families.md
