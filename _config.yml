@@ -35,9 +35,6 @@ navigation:
   - name: Thunderbirds Photo Album
     url: 'https://thunderbirdsalumni.smugmug.com/'
     type: external
-  - name: Alumni Forum
-    url: 'http://thunderbirdsalumni.freeforums.net/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7efddf-0ec0-4b0b-8ed3-c5888f23ff21.png
 title: ThunderbirdsAlumni.com
