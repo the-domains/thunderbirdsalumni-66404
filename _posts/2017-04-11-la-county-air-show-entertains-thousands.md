@@ -18,13 +18,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.aerotechnews.com/blog/2017/04/07/la-county-air-show-entertains-thousands/
 title: LA County Air Show entertains thousands
-datePublished: '2017-04-11T03:09:19.577Z'
-dateModified: '2017-04-11T03:08:38.212Z'
-datePublishedOriginal: '2017-04-11T03:09:19.577Z'
+datePublished: '2017-04-11T03:10:38.439Z'
+dateModified: '2017-04-11T03:10:37.363Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-04-11-la-county-air-show-entertains-thousands.md
+starred: false
+datePublishedOriginal: '2017-04-11T03:09:19.577Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
