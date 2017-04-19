@@ -45,8 +45,8 @@ isBasedOnUrl: >-
 title: >-
   The Daytona 500 opened with the most epic flyover by the Air Force
   Thunderbirds
-datePublished: '2017-04-11T03:12:11.331Z'
-dateModified: '2017-04-11T03:12:10.152Z'
+datePublished: '2017-04-19T01:50:55.251Z'
+dateModified: '2017-04-19T01:50:54.134Z'
 via: {}
 inFeed: true
 sourcePath: >-
