@@ -16,8 +16,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.dvidshub.net/news/227803/colorado-air-national-guard-brings-new-life-fallen-thunderbird-tail
 title: Colorado Air National Guard brings new life to fallen Thunderbird tail
-datePublished: '2017-04-11T03:12:11.316Z'
-dateModified: '2017-04-11T03:12:10.152Z'
+datePublished: '2017-04-19T01:50:55.176Z'
+dateModified: '2017-04-19T01:50:54.134Z'
 via: {}
 inFeed: true
 sourcePath: >-
