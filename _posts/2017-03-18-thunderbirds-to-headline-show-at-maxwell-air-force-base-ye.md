@@ -19,8 +19,8 @@ app_links: []
 isBasedOnUrl: >-
   http://yellowhammernews.com/faithandculture/thunderbirds-headline-show-maxwell-air-force-base/
 title: Thunderbirds to headline show at Maxwell Air Force Base - Yellowhammer News
-datePublished: '2017-04-11T03:12:11.279Z'
-dateModified: '2017-04-11T03:12:10.152Z'
+datePublished: '2017-04-19T01:50:55.173Z'
+dateModified: '2017-04-19T01:50:54.134Z'
 via: {}
 inFeed: true
 sourcePath: >-
