@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://gator995.com/chennault-international-airshow-set-for-april-28th-30th-in-lake-charles/
 title: Chennault International Airshow Set For April In Lake Charles
-datePublished: '2017-04-11T03:12:11.328Z'
-dateModified: '2017-04-11T03:12:10.152Z'
+datePublished: '2017-04-19T01:50:55.251Z'
+dateModified: '2017-04-19T01:50:54.134Z'
 via: {}
 inFeed: true
 sourcePath: >-
