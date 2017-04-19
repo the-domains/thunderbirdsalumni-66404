@@ -17,8 +17,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.mlive.com/news/grand-rapids/index.ssf/2017/03/usaf_thunderbirds_will_take_to.html
 title: USAF Thunderbirds will take to the skies at 2017 National Cherry Festival
-datePublished: '2017-04-19T01:50:55.221Z'
-dateModified: '2017-04-19T01:50:54.134Z'
+datePublished: '2017-04-19T02:25:09.376Z'
+dateModified: '2017-04-19T02:25:08.384Z'
 via: {}
 inFeed: true
 sourcePath: >-
