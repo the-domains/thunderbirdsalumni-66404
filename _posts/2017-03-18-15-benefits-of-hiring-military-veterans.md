@@ -19,8 +19,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://smallbiztrends.com/2017/03/benefits-of-hiring-veterans.html'
 title: 15 Benefits of Hiring Military Veterans
-datePublished: '2017-04-19T01:50:55.221Z'
-dateModified: '2017-04-19T01:50:54.134Z'
+datePublished: '2017-04-19T02:25:09.439Z'
+dateModified: '2017-04-19T02:25:08.384Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-18-15-benefits-of-hiring-military-veterans.md
