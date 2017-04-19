@@ -32,8 +32,8 @@ isBasedOnUrl: >-
 title: >-
   How Do They Time Stadium Flyovers? Super Bowl 2017 Will Feature Thunderbirds
   Flying Over NRG Stadium
-datePublished: '2017-04-11T03:12:11.343Z'
-dateModified: '2017-04-11T03:12:10.152Z'
+datePublished: '2017-04-19T01:50:55.245Z'
+dateModified: '2017-04-19T01:50:54.134Z'
 via: {}
 inFeed: true
 sourcePath: >-
