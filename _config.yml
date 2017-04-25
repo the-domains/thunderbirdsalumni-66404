@@ -38,7 +38,95 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7efddf-0ec0-4b0b-8ed3-c5888f23ff21.png
 title: ThunderbirdsAlumni.com
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FVktfFyv9f94%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVktfFyv9f94&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVktfFyv9f94%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: afthunderbirds
+          url: 'https://www.youtube.com/user/afthunderbirds'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      keywords:
+        - patrouille de france
+        - paf
+        - usaf
+        - air force
+        - french
+        - thunderbirds
+        - team
+        - air demonstration
+        - aerobatics
+        - pilot
+        - combat
+        - fighter
+        - f-16
+        - fighting falcon
+        - alpha j...
+      description: >-
+        The Air Force Thunderbirds conduct a flight exchange program with French
+        pilots from the Patrouille de France demonstration team. For more
+        information about the U.S. Air Force Thunderbirds, visit:
+        www.afthunderbirds.com Follow the Thunderbirds on
+        https://www.facebook.com/AFThunderbirds/ Follow the Thunderbirds on
+        Instagram/ Twitter - @afthunderbirds
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=VktfFyv9f94&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=VktfFyv9f94&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=VktfFyv9f94&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=VktfFyv9f94&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=VktfFyv9f94&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=VktfFyv9f94'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=VktfFyv9f94
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=VktfFyv9f94
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/VktfFyv9f94'
+      title: Foreign Exchange Program
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Dream Of A Lifetime
 purpose:
   - type: contact
