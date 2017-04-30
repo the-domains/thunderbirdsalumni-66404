@@ -10,6 +10,7 @@ color:
   lightness: 0.09757354235571652
   saturation: 0.37872861419453996
   rhythmicContrast: 0.9622022134329349
+github: true
 layout_spectrum: 0.3246323919438268
 analytics:
   google: UA-91455698-1
@@ -35,6 +36,9 @@ navigation:
   - name: Thunderbirds Photo Album
     url: 'https://thunderbirdsalumni.smugmug.com/'
     type: external
+  - name: Reunion News
+    id: 4d6e2aee-f0b2-4ef4-a4ba-6ca8b7fb1d78
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7efddf-0ec0-4b0b-8ed3-c5888f23ff21.png
 title: ThunderbirdsAlumni.com
@@ -48,16 +52,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: afthunderbirds
-          url: 'https://www.youtube.com/user/afthunderbirds'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/VktfFyv9f94'
       keywords:
         - patrouille de france
         - paf
@@ -74,14 +70,13 @@ content:
         - f-16
         - fighting falcon
         - alpha j...
-      description: >-
-        The Air Force Thunderbirds conduct a flight exchange program with French
-        pilots from the Patrouille de France demonstration team. For more
-        information about the U.S. Air Force Thunderbirds, visit:
-        www.afthunderbirds.com Follow the Thunderbirds on
-        https://www.facebook.com/AFThunderbirds/ Follow the Thunderbirds on
-        Instagram/ Twitter - @afthunderbirds
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      related: []
+      author:
+        - name: afthunderbirds
+          url: 'https://www.youtube.com/user/afthunderbirds'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Foreign Exchange Program
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=VktfFyv9f94&feature=applinks'
@@ -120,10 +115,18 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/VktfFyv9f94'
-      title: Foreign Exchange Program
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      description: >-
+        The Air Force Thunderbirds conduct a flight exchange program with French
+        pilots from the Patrouille de France demonstration team. For more
+        information about the U.S. Air Force Thunderbirds, visit:
+        www.afthunderbirds.com Follow the Thunderbirds on
+        https://www.facebook.com/AFThunderbirds/ Follow the Thunderbirds on
+        Instagram/ Twitter - @afthunderbirds
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -135,4 +138,3 @@ purpose:
   - type: external
     url: 'http://www.afthunderbirds.com/site/'
     label: USAF Thunderbirds Site
-github: true
