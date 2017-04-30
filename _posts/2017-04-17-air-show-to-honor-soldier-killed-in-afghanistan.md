@@ -38,8 +38,8 @@ app_links:
 isBasedOnUrl: >-
   http://www.newsday.com/long-island/thunderbirds-to-fly-in-tribute-to-soldier-at-bethpage-air-show-1.13459289
 title: Air show to honor soldier killed in Afghanistan
-datePublished: '2017-04-28T03:19:56.671Z'
-dateModified: '2017-04-28T03:19:56.254Z'
+datePublished: '2017-04-30T01:31:23.173Z'
+dateModified: '2017-04-30T01:31:21.264Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-17-air-show-to-honor-soldier-killed-in-afghanistan.md
