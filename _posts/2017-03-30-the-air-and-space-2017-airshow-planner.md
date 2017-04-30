@@ -20,8 +20,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.airspacemag.com/airspacemag/air-space-airshow-planner-2017-180962685/
 title: The Air & Space 2017 Airshow Planner
-datePublished: '2017-04-19T02:25:09.358Z'
-dateModified: '2017-04-19T02:25:08.384Z'
+datePublished: '2017-04-30T01:31:23.204Z'
+dateModified: '2017-04-30T01:31:21.264Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-30-the-air-and-space-2017-airshow-planner.md
