@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: 'Reunion News:'
-dateModified: '2017-04-30T18:51:15.871Z'
-datePublished: '2017-04-30T18:51:16.483Z'
+dateModified: '2017-04-30T18:56:14.956Z'
+datePublished: '2017-04-30T18:56:16.063Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-30-copied-from-the-latest-thunderrolls-issue.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-30T18:47:49.954Z'
-_type: Blurb
+url: reunion-news/index.html
+_type: Article
 
 ---
 Reunion News:
