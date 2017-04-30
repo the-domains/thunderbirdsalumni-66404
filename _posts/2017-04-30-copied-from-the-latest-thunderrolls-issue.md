@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: 'Reunion News:'
-dateModified: '2017-04-30T22:11:14.153Z'
-datePublished: '2017-04-30T22:11:14.589Z'
-title: ''
+description: From ThunderRolls 2017 Qtr 1
+dateModified: '2017-04-30T22:15:09.327Z'
+datePublished: '2017-04-30T22:15:09.747Z'
+title: Reunion News
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,4 @@ url: reunion-news/index.html
 _type: Article
 
 ---
-Reunion News:
-
-From the latest ThunderRolls 2017 Qtr 1
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86b7d537-1d5c-4c0f-8199-f71a98c4e8aa.png)
+![From ThunderRolls 2017 Qtr 1](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86b7d537-1d5c-4c0f-8199-f71a98c4e8aa.png)
