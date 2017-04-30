@@ -31,8 +31,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.11alive.com/sports/2017-daytona-500-start-time-lineup-tvradio-schedule-live-streaming/414739303
 title: '2017 Daytona 500: Start time, lineup, TV/radio schedule, live streaming'
-datePublished: '2017-04-19T02:25:09.439Z'
-dateModified: '2017-04-19T02:25:08.384Z'
+datePublished: '2017-04-30T01:31:23.216Z'
+dateModified: '2017-04-30T01:31:21.264Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-26-2017-daytona-500-start-time-lineup-tvradio-schedule-liv.md
