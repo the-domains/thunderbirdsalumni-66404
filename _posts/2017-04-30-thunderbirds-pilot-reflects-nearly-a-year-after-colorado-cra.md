@@ -23,14 +23,14 @@ app_links: []
 isBasedOnUrl: >-
   http://www.military.com/daily-news/2017/04/28/thunderbirds-pilot-reflects-nearly-a-year-after-colorado-crash.html
 title: Thunderbirds Pilot Reflects Nearly a Year After Colorado Crash
-datePublished: '2017-04-30T01:30:29.053Z'
-dateModified: '2017-04-30T01:29:58.817Z'
-datePublishedOriginal: '2017-04-30T01:30:29.053Z'
+datePublished: '2017-04-30T01:31:23.174Z'
+dateModified: '2017-04-30T01:31:21.264Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-04-30-thunderbirds-pilot-reflects-nearly-a-year-after-colorado-cra.md
+starred: false
+datePublishedOriginal: '2017-04-30T01:30:29.053Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
