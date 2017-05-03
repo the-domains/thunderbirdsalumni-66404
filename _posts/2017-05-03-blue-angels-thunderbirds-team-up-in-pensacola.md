@@ -17,13 +17,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.pnj.com/story/news/2017/04/24/blue-angels-thunderbirds-team-up-pensacola-week/100837304/
 title: 'Blue Angels, Thunderbirds team up in Pensacola'
-datePublished: '2017-05-03T00:48:42.451Z'
-dateModified: '2017-05-03T00:48:41.766Z'
+datePublished: '2017-05-03T02:22:37.592Z'
+dateModified: '2017-05-03T00:47:33.180Z'
+datePublishedOriginal: '2017-05-03T02:22:37.592Z'
 via: {}
 inFeed: true
-sourcePath: _posts/2017-05-03-blue-angels-thunderbirds-team-up-in-pensacola.md
 starred: false
-datePublishedOriginal: '2017-05-03T00:47:30.150Z'
+sourcePath: _posts/2017-05-03-blue-angels-thunderbirds-team-up-in-pensacola.md
 _context: 'http://schema.org'
 _type: MediaObject
 
