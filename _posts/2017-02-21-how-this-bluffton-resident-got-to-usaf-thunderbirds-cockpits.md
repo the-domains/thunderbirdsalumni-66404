@@ -31,8 +31,8 @@ isBasedOnUrl: >-
 title: >-
   How this Bluffton resident got to USAF Thunderbirds cockpits from Ridgeland
   fields
-datePublished: '2017-04-30T01:31:23.172Z'
-dateModified: '2017-04-30T01:31:21.264Z'
+datePublished: '2017-05-03T00:48:42.453Z'
+dateModified: '2017-05-03T00:48:41.766Z'
 via: {}
 inFeed: true
 sourcePath: >-
