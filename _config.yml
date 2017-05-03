@@ -39,7 +39,7 @@ navigation:
   - name: Reunion News
     id: 4d6e2aee-f0b2-4ef4-a4ba-6ca8b7fb1d78
     type: content
-  - name: USAF Merchandise
+  - name: Merchandise
     url: 'http://astore.amazon.com/gridad-20'
     type: external
 favicon: >-
