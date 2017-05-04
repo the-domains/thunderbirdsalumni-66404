@@ -25,8 +25,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.wacotrib.com/news/briefly/waco-area-news-briefs-march/article_75bcd7df-9fe6-5ca0-b337-a9eb5c56bce2.html
 title: 'Waco-area news briefs: March 18, 2017'
-datePublished: '2017-05-03T00:48:42.462Z'
-dateModified: '2017-05-03T00:48:41.766Z'
+datePublished: '2017-05-04T04:19:50.993Z'
+dateModified: '2017-05-04T04:19:49.949Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-18-waco-area-news-briefs-march-18-2017.md
