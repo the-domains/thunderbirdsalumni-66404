@@ -39,9 +39,6 @@ navigation:
   - name: Reunion News
     id: 4d6e2aee-f0b2-4ef4-a4ba-6ca8b7fb1d78
     type: content
-  - name: Merchandise
-    url: 'http://astore.amazon.com/gridad-20'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7efddf-0ec0-4b0b-8ed3-c5888f23ff21.png
 title: ThunderbirdsAlumni.com
@@ -74,7 +71,6 @@ content:
         History, legacy and mission of the United States Air Force Thunderbirds
         Air Demonstration Squadron. GO TO THE FRONTLINES: More videos at
         http://www.militaryvideos.com
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=uQCPnddBqjQ&feature=applinks'
