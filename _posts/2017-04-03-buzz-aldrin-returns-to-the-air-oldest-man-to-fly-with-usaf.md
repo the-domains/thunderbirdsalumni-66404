@@ -31,8 +31,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.inquisitr.com/4112624/buzz-aldrin-returns-to-the-air-oldest-man-to-fly-with-usaf-thunderbirds/
 title: 'Buzz Aldrin Returns To The Air, Oldest Man To Fly With USAF Thunderbirds'
-datePublished: '2017-05-04T04:19:50.986Z'
-dateModified: '2017-05-04T04:19:49.949Z'
+datePublished: '2017-05-07T23:54:40.944Z'
+dateModified: '2017-05-07T23:54:40.130Z'
 via: {}
 inFeed: true
 sourcePath: >-
