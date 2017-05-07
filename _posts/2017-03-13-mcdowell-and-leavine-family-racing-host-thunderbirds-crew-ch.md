@@ -46,8 +46,8 @@ app_links:
 isBasedOnUrl: >-
   http://www.espn.com/jayski/cup/2017/story/_/id/18865640/mcdowell-leavine-family-racing-host-thunderbirds-crew-chief-las-vegas
 title: McDowell And Leavine Family Racing host Thunderbirds crew chief at Las Vegas
-datePublished: '2017-05-04T04:19:50.997Z'
-dateModified: '2017-05-04T04:19:49.949Z'
+datePublished: '2017-05-07T23:54:40.983Z'
+dateModified: '2017-05-07T23:54:40.130Z'
 via: {}
 inFeed: true
 sourcePath: >-
