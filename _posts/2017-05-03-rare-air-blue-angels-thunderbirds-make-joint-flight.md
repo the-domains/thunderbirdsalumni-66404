@@ -23,8 +23,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.fox35orlando.com/fast-five/251587266-story'
 title: 'Rare air: Blue Angels, Thunderbirds make joint flight'
-datePublished: '2017-05-04T04:19:50.949Z'
-dateModified: '2017-05-04T04:19:49.949Z'
+datePublished: '2017-05-08T20:33:12.255Z'
+dateModified: '2017-05-08T20:33:10.921Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-03-rare-air-blue-angels-thunderbirds-make-joint-flight.md
