@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.dvidshub.net/news/225909/family-first-honoring-creech-families'
 title: 'Family first: Honoring Creech families'
-datePublished: '2017-05-07T23:54:40.974Z'
-dateModified: '2017-05-07T23:54:40.130Z'
+datePublished: '2017-05-08T20:33:12.311Z'
+dateModified: '2017-05-08T20:33:10.921Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-08-family-first-honoring-creech-families.md
