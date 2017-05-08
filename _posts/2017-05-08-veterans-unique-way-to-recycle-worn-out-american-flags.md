@@ -41,13 +41,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.wfmynews2.com/news/local/veterans-unique-way-to-recycle-worn-out-american-flags/437828191
 title: Veteran's Unique Way to Recycle Worn-Out American Flags
-datePublished: '2017-05-08T20:31:17.738Z'
-dateModified: '2017-05-08T20:29:26.216Z'
-datePublishedOriginal: '2017-05-08T20:31:17.738Z'
+datePublished: '2017-05-08T20:33:12.235Z'
+dateModified: '2017-05-08T20:33:10.921Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-05-08-veterans-unique-way-to-recycle-worn-out-american-flags.md
+starred: false
+datePublishedOriginal: '2017-05-08T20:31:17.738Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
