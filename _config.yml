@@ -45,7 +45,7 @@ navigation:
   - name: TBAA
     url: 'http://www.thunderbirdsalumni.org'
     type: external
-  - name: Perch2
+  - name: Forum
     url: 'http://thunderbirdsalumni.createaforum.com/'
     type: external
 favicon: >-
