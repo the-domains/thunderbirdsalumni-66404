@@ -1,4 +1,4 @@
-typography_spectrum: 0.813916183578791
+typography_spectrum: 0.03082064115230252
 color:
   brandColors:
     - '#F8F9FC'
@@ -6,20 +6,19 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
-  brandStrength: 0.8226996880769729
-  lightness: 0.09757354235571652
-  saturation: 0.37872861419453996
-  rhythmicContrast: 0.9622022134329349
-github: true
-layout_spectrum: 0.3246323919438268
+  brandStrength: 0.8291831603128978
+  lightness: 0.09360359973735222
+  saturation: 0.37376909000955816
+  rhythmicContrast: 0.9666886589664154
+layout_spectrum: 0.35659241248152707
 analytics:
   google: UA-91455698-1
+  twitter: '@AFThunderbirds'
 author:
   name: ThunderbirdsAlumni.com
   email: larrykathy@hotmail.com
   url: 'http://thunderbirdsalumni.com'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/233e9f93-825f-49dd-9c1a-d840676b1dde.png
+logo: null
 name: ThunderbirdsAlumni
 url: 'https://thunderbirdsalumni.com/'
 colors:
@@ -36,9 +35,19 @@ navigation:
   - name: Thunderbirds Photo Album
     url: 'https://thunderbirdsalumni.smugmug.com/'
     type: external
-  - name: Reunion News
-    id: 4d6e2aee-f0b2-4ef4-a4ba-6ca8b7fb1d78
+  - name: Reunion 2017
+    id: 75dbfe8f-40dc-438a-b2c9-47e0fdd1fcb2
     type: content
+  - name: DVIDS
+    url: >-
+      https://www.dvidshub.net/tags/video/thunderbirds/page/1/?sub_id=150403&utm_campaign=subscriptions&utm_medium=email&utm_source=150403&utm_content=asset_link&page=1
+    type: external
+  - name: TBAA
+    url: 'http://www.thunderbirdsalumni.org'
+    type: external
+  - name: Perch2
+    url: 'http://thunderbirdsalumni.createaforum.com/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7efddf-0ec0-4b0b-8ed3-c5888f23ff21.png
 title: ThunderbirdsAlumni.com
@@ -47,72 +56,40 @@ content:
     type: video
     html: >-
       <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FuQCPnddBqjQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuQCPnddBqjQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FuQCPnddBqjQ%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Ftj4-Krt71Vc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dtj4-Krt71Vc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ftj4-Krt71Vc%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
       width="640" height="360" scrolling="no" frameborder="0"
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: MilitaryVideos.com
-          url: 'https://www.youtube.com/user/militaryvideochannel'
-          avatar: {}
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=tj4-Krt71Vc'
+      keywords:
+        - video
+        - sharing
+        - camera phone
+        - video phone
+        - free
+        - upload
       related: []
+      author:
+        - name: afthunderbirds
+          url: 'https://www.youtube.com/user/afthunderbirds'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Thunderbird 5 Performs Max Turn and Calypso Pass Maneuvers
+      '@type': VideoObject
+      app_links: []
       publisher:
         url: 'https://www.youtube.com/'
         name: YouTube
         favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
-      keywords:
-        - air force
-        - thunderbirds
-        - usaf
-        - military history
+        domain: www.youtube.com
       description: >-
-        History, legacy and mission of the United States Air Force Thunderbirds
-        Air Demonstration Squadron. GO TO THE FRONTLINES: More videos at
-        http://www.militaryvideos.com
-      '@type': VideoObject
-      app_links:
-        - url: 'vnd.youtube://www.youtube.com/watch?v=uQCPnddBqjQ&feature=applinks'
-          type: ios
-          namespace: ai
-          app_store_id: '544007664'
-          app_name: YouTube
-        - url: 'vnd.youtube://www.youtube.com/watch?v=uQCPnddBqjQ&feature=applinks'
-          type: android
-          namespace: ai
-          app_name: YouTube
-          package: com.google.android.youtube
-        - url: 'https://www.youtube.com/watch?v=uQCPnddBqjQ&feature=applinks'
-          type: web
-          namespace: ai
-        - url: 'vnd.youtube://www.youtube.com/watch?v=uQCPnddBqjQ&feature=applinks'
-          namespace: twitter
-          type: ipad
-          name: YouTube
-          id: '544007664'
-        - url: 'vnd.youtube://www.youtube.com/watch?v=uQCPnddBqjQ&feature=applinks'
-          namespace: twitter
-          type: iphone
-          name: YouTube
-          id: '544007664'
-        - url: 'https://www.youtube.com/watch?v=uQCPnddBqjQ'
-          namespace: twitter
-          type: googleplay
-          name: YouTube
-          id: com.google.android.youtube
-        - path: http/www.youtube.com/watch?v=uQCPnddBqjQ
-          package: com.google.android.youtube
-          namespace: google
-          type: android
-        - path: vnd.youtube/www.youtube.com/watch?v=uQCPnddBqjQ
-          package: '544007664'
-          namespace: google
-          type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/uQCPnddBqjQ'
-      title: 'Thunderama: History of the U.S. Air Force Thunderbirds'
-      datePublished: null
+        What happens when you fly a high performance fighter jet in a humid
+        environment? Let Thunderbird 5 show you in his Max Turn and Calypso Pass
+        maneuvers. To learn when the U.S. Air Force Thunderbirds will be soaring
+        to an Air Show near you, visit www.afthunderbirds.com or follow us on
+        Facebook!
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -124,3 +101,4 @@ purpose:
   - type: external
     url: 'http://www.afthunderbirds.com/site/'
     label: USAF Thunderbirds Site
+github: true
