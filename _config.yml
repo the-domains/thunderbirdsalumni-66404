@@ -42,11 +42,11 @@ navigation:
     url: >-
       https://www.dvidshub.net/tags/video/thunderbirds/page/1/?sub_id=150403&utm_campaign=subscriptions&utm_medium=email&utm_source=150403&utm_content=asset_link&page=1
     type: external
-  - name: TBAA
-    url: 'http://www.thunderbirdsalumni.org'
-    type: external
   - name: Forum
     url: 'http://thunderbirdsalumni.createaforum.com/'
+    type: external
+  - name: TBAA
+    url: 'http://www.thunderbirdsalumni.org'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7efddf-0ec0-4b0b-8ed3-c5888f23ff21.png
